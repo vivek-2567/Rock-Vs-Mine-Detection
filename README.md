@@ -7,7 +7,7 @@ Here the all observation has 60 attributes in the range 0.0 to 1.0.
 
 Each number represents the energy within a particular frequency band, integrated over a certain period of time.
 
-The model has a weighted average F1-Score of 0.81.
+The model has a **weighted average F1-Score of 0.81**.
 
 
 <br><br>
