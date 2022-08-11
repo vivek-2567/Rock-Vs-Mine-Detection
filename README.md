@@ -9,10 +9,14 @@ Each number represents the energy within a particular frequency band, integrated
 
 The model has a weighted average F1-Score of 0.81.
 
+
+
 ## Screenshots
 
 ![App Screenshot 1](![App Screenshot](https://github.com/vivek-2567/Rock-Vs-Mine-Detection/blob/main/App1.png)
 ![App Screenshot 2](![App Screenshot](https://github.com/vivek-2567/Rock-Vs-Mine-Detection/blob/main/App2.png)
+
+
 
 
 ## Acknowledgements
