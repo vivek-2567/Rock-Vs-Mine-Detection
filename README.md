@@ -1,7 +1,7 @@
 # Rock-Vs-Mine-Detection
 
 
-The model made in this project can detect whether the object is a Rock or a Mine.
+The model made in this project can detect whether a object is a Rock or a Mine.
 
 Here the all observation has 60 attributes in the range 0.0 to 1.0. 
 
