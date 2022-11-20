@@ -1,7 +1,7 @@
 # Rock-Vs-Mine-Detection
 
 
-The Project is deployed at https://rockvsmine.herokuapp.com and https://rockvsmine-vivek2567.streamlit.app/
+The Project is deployed at https://rockvsmine-vivek2567.streamlit.app/
 
 The model made in this project can detect whether a object is a Rock or a Mine.
 
