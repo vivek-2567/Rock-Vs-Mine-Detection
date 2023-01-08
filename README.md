@@ -10,9 +10,9 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://github.com/vivek-2567/Rock-Vs-Mine-Detection/blob/main/App1.png" alt="project-screenshot" width="700" height="400/">
+<img src="https://github.com/vivek-2567/Rock-Vs-Mine-Detection/blob/main/App1.png" alt="project-screenshot" width="900" height="500/">
 
-<img src="https://github.com/vivek-2567/Rock-Vs-Mine-Detection/blob/main/App2.png" alt="project-screenshot" width="700" height="400/">
+<img src="https://github.com/vivek-2567/Rock-Vs-Mine-Detection/blob/main/App2.png" alt="project-screenshot" width="900" height="500/">
 
   
 <h2>🛠️ Installation Steps:</h2>
