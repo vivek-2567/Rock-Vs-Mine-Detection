@@ -57,7 +57,7 @@ Technologies used in the project:
 
 
 ## Links
--[Link to Dataset](https://archive.ics.uci.edu/ml/datasets/connectionist+bench+(sonar,+mines+vs.+rocks)
+-[Link to Dataset](https://archive.ics.uci.edu/ml/datasets/connectionist+bench+(sonar,+mines+vs.+rocks))
 
 ## Feedback
 If you have any feedback please reachout to me @ vivekgoel0207@gmail.com
