@@ -1,4 +1,4 @@
-<h1 align="center" id="title">Rock or Mine Detector</h1>
+<h1 align="center" id="title">Rock vs Mine Detector</h1>
 
 <p align="center"><img src="https://socialify.git.ci/vivek-2567/Rock-Vs-Mine-Detection/image?font=Bitter&amp;name=1&amp;owner=1&amp;pattern=Brick%20Wall&amp;theme=Dark" alt="project-image"></p>
 
